@@ -1,4 +1,4 @@
-# <img width="5%" valign="bottom" src="https://github.com/AhmedAboulnaga/test/blob/main/assets/reilogo.png"/> | FEMADex Development Technical Challenge
+<img width="100%" valign="bottom" src="https://github.com/AhmedAboulnaga/test/blob/main/assets/banner.png"/>
 
 ## Introduction
 
@@ -45,6 +45,14 @@ The following diagram illustrates the cloud services and components that compris
 
 <p align="center">
 <img width="100%" src="https://github.com/AhmedAboulnaga/test/blob/main/assets/architecture.png"/>
+</p>
+
+### Video Walkthrough
+
+This recording is an actual end-to-end recording of the provisioning process of the production environment through GitLab Runner, taking a total of 12 minutes and 44 seconds.
+
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Skydio/revup/main/docs/images/tutorial_1.gif"/>
 </p>
 
 ## Assumptions
